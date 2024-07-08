@@ -1,0 +1,5 @@
+2024-07-08 21:45:57,453 - INFO - This is an info message
+2024-07-08 21:45:57,454 - WARNING - This is a warning message
+2024-07-08 21:45:57,454 - ERROR - This is an error message
+2024-07-08 21:46:05,519 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:46:05,687 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9086
