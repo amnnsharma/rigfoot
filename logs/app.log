@@ -1,0 +1,42 @@
+2024-07-08 21:45:57,453 - INFO - This is an info message
+2024-07-08 21:45:57,454 - WARNING - This is a warning message
+2024-07-08 21:45:57,454 - ERROR - This is an error message
+2024-07-08 21:46:05,519 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:46:05,687 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9086
+2024-07-08 21:46:05,698 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-08 21:46:06,312 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 201 1639
+2024-07-08 21:46:45,088 - INFO - This is an info message
+2024-07-08 21:46:45,089 - WARNING - This is a warning message
+2024-07-08 21:46:45,089 - ERROR - This is an error message
+2024-07-08 21:47:01,642 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:47:01,811 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9033
+2024-07-08 21:47:01,829 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-08 21:47:02,158 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 422 170
+2024-07-08 21:47:34,269 - INFO - This is an info message
+2024-07-08 21:47:34,269 - WARNING - This is a warning message
+2024-07-08 21:47:34,270 - ERROR - This is an error message
+2024-07-08 21:47:36,490 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:47:36,638 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9109
+2024-07-08 21:47:36,658 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-08 21:47:37,249 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 422 170
+2024-07-08 21:48:44,812 - INFO - This is an info message
+2024-07-08 21:48:44,812 - WARNING - This is a warning message
+2024-07-08 21:48:44,812 - ERROR - This is an error message
+2024-07-08 21:48:45,962 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:48:46,174 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9095
+2024-07-08 21:49:22,776 - INFO - This is an info message
+2024-07-08 21:49:22,776 - WARNING - This is a warning message
+2024-07-08 21:49:22,776 - ERROR - This is an error message
+2024-07-08 21:49:24,249 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:49:24,402 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9044
+2024-07-08 21:49:24,416 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-08 21:49:24,742 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 422 170
+2024-07-08 21:49:27,142 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:49:27,571 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9063
+2024-07-08 21:49:27,589 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-08 21:49:27,897 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 422 170
+2024-07-08 21:50:13,860 - INFO - This is an info message
+2024-07-08 21:50:13,860 - WARNING - This is a warning message
+2024-07-08 21:50:13,861 - ERROR - This is an error message
+2024-07-08 21:50:16,234 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-08 21:50:16,411 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9073
