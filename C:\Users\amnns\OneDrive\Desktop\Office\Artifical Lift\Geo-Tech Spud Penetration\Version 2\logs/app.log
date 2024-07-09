@@ -1,0 +1,29 @@
+2024-07-09 14:42:37,568 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0
+    ],
+    "layers_suw": [
+        2.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        25.0
+    ]
+}
+2024-07-09 14:42:37,568 - INFO - Results: {
+    "VL_formula": [
+        0,
+        3
+    ]
+}
+2024-07-09 14:42:37,572 - DEBUG - Starting new HTTP connection (1): www.google.com:80
+2024-07-09 14:42:38,573 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9042
