@@ -60,3 +60,34 @@
 }
 2024-07-09 14:44:55,915 - DEBUG - Starting new HTTP connection (1): www.google.com:80
 2024-07-09 14:44:56,686 - DEBUG - http://www.google.com:80 "GET / HTTP/11" 200 9063
+2024-07-09 14:44:56,729 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-09 14:44:57,237 - DEBUG - https://api.github.com:443 "GET /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 404 None
+2024-07-09 14:44:57,239 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2024-07-09 14:44:58,221 - DEBUG - https://api.github.com:443 "PUT /repos/amnnsharma/rigfoot/contents/logs/app.log HTTP/11" 201 1898
+2024-07-09 14:47:28,669 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0
+    ],
+    "layers_suw": [
+        2.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        25.0
+    ]
+}
+2024-07-09 14:47:28,669 - INFO - Results: {
+    "VL_formula": [
+        0,
+        3
+    ]
+}
