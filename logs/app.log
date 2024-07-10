@@ -4187,3 +4187,32 @@
         3
     ]
 }
+
+2024-07-10 17:14:28,183 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        1.0
+    ],
+    "layers_suw": [
+        2.0,
+        2.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        25.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-10 17:14:28,184 - INFO - Results: {
+    "VL_formula": [
+        0,
+        3
+    ]
+}
