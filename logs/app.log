@@ -2030,3 +2030,76 @@
         0
     ]
 }
+
+2024-07-10 15:45:30,102 - INFO - Parameters: {
+    "layers": [
+        0,
+        1,
+        0
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0,
+        3.0
+    ],
+    "layers_suw": [
+        2.0,
+        4.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        25.0,
+        [
+            5.0,
+            6.0
+        ]
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-10 15:45:30,102 - INFO - Results: {
+    "VL_formula": [
+        0,
+        4,
+        0
+    ]
+}
+2024-07-10 15:45:43,309 - INFO - Parameters: {
+    "layers": [
+        0,
+        1,
+        0
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0,
+        3.0
+    ],
+    "layers_suw": [
+        2.0,
+        4.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        40.0,
+        [
+            5.0,
+            6.0
+        ]
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-10 15:45:43,309 - INFO - Results: {
+    "VL_formula": [
+        0,
+        4,
+        0
+    ]
+}
