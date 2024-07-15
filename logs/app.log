@@ -216,3 +216,140 @@
         3
     ]
 }
+2024-07-15 20:51:41,934 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0
+    ],
+    "layers_suw": [
+        2.0,
+        5.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        24.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-15 20:51:41,934 - INFO - Results: {
+    "VL_formula": [
+        1,
+        3
+    ]
+}
+2024-07-15 20:52:22,965 - INFO - Parameters: {
+    "layers": [
+        1,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        2.0
+    ],
+    "layers_suw": [
+        2.0,
+        3.0
+    ],
+    "su_friction": [
+        25.0,
+        24.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-15 20:52:22,967 - INFO - Results: {
+    "VL_formula": [
+        3,
+        3
+    ]
+}
+2024-07-15 20:54:22,583 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        3.0,
+        3.0
+    ],
+    "layers_suw": [
+        4.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            5.0,
+            6.0
+        ],
+        25.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-15 20:54:22,583 - INFO - Results: {
+    "VL_formula": [
+        1,
+        3
+    ]
+}
+2024-07-15 20:55:13,433 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        3.0,
+        3.0
+    ],
+    "layers_suw": [
+        4.0,
+        4.0
+    ],
+    "su_friction": [
+        [
+            5.0,
+            6.0
+        ],
+        25.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-15 20:55:13,433 - INFO - Results: {
+    "VL_formula": [
+        1,
+        3
+    ]
+}
+2024-07-15 20:59:27,104 - INFO - Parameters: {
+    "layers": [
+        0,
+        1
+    ],
+    "layer_thickness": [
+        1.0,
+        1.0
+    ],
+    "layers_suw": [
+        2.0,
+        2.0
+    ],
+    "su_friction": [
+        [
+            3.0,
+            4.0
+        ],
+        25.0
+    ],
+    "h-cavitation status": "on"
+}
+2024-07-15 20:59:27,104 - INFO - Results: {
+    "VL_formula": [
+        1,
+        3
+    ]
+}
